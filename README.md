@@ -14,3 +14,10 @@
 - [Analytics Vidhya – *A Guide to Monte Carlo Simulation*](https://www.analyticsvidhya.com/blog/2021/07/a-guide-to-monte-carlo-simulation/)  
 - [DataCamp – *NumPy random.choice() Documentation*](https://www.datacamp.com/doc/numpy/random-choice)  
 - [Statistics How To – *P-Value in Statistical Hypothesis Tests: What is it?*](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/)  
+- [Statology – * Population vs. Sample Standard Deviation: When to Use Each*](https://www.statology.org/population-vs-sample-standard-deviation/)  
+- [NumPy – *numpy.random.normal()*](https://numpy.org/doc/2.1/reference/random/generated/numpy.random.normal.html)
+- [GeeksforGeeks – *Normal Distribution in NumPy*](https://www.geeksforgeeks.org/numpy/normal-distribution-in-numpy/)
+- [NumPy – *numpy.std()*](https://numpy.org/doc/2.1/reference/generated/numpy.std.html)
+- [GeeksforGeeks – *numpy.std() in Python*](https://www.geeksforgeeks.org/python/numpy-std-in-python/)
+- [Spark By Examples – *How to Compute Standard Deviation in NumPy*](https://sparkbyexamples.com/python/python-numpy-standard-deviation-function/)
+
