@@ -27,3 +27,14 @@
 - [Khan Academy – *Population and Sample Standard Deviation Review*](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/a/population-and-sample-standard-deviation-review)
 - [Statology – *Population vs. Sample Standard Deviation: When to Use Each*](https://www.statology.org/population-vs-sample-standard-deviation/)
 
+### Problem 3: t-Tests
+- [SciPy – *ttest_ind*](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)  
+- [NumPy – *arange()*](https://numpy.org/doc/stable/reference/generated/numpy.arange.html)  
+- [NumPy – *arange() Documentation*](https://numpy.org/doc/stable/reference/generated/numpy.arange.html)
+-  [Statology – *Type II Error Calculator*](https://www.statology.org/type-ii-error-calculator/)
+- [Machine Learning Mastery – *How to Code the Student’s t-Test from Scratch in Python*](https://www.machinelearningmastery.com/how-to-code-the-students-t-test-from-scratch-in-python/)  
+- [Medium – *Hypothesis Testing and the T-Test: A Python Example*](https://medium.com/%40wilbossoftwarejourney/unlocking-the-power-of-hypothesis-testing-how-the-t-test-can-help-you-make-informed-decisions-b3eed0488a42)  
+- [GeeksforGeeks – *Introduction to Power Analysis in Python*](https://www.geeksforgeeks.org/python/introduction-to-power-analysis-in-python/)  
+- [Statology – *How to Perform Hypothesis Testing with SciPy*](https://www.statology.org/how-perform-hypothesis-testing-scipy/)  
+- [Analytics Vidhya – *A Guide to Monte Carlo Simulation in Python*](https://www.analyticsvidhya.com/blog/2021/07/a-guide-to-monte-carlo-simulation/)
+
