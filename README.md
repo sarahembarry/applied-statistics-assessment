@@ -37,4 +37,6 @@
 - [GeeksforGeeks – *Introduction to Power Analysis in Python*](https://www.geeksforgeeks.org/python/introduction-to-power-analysis-in-python/)  
 - [Statology – *How to Perform Hypothesis Testing with SciPy*](https://www.statology.org/how-perform-hypothesis-testing-scipy/)  
 - [Analytics Vidhya – *A Guide to Monte Carlo Simulation in Python*](https://www.analyticsvidhya.com/blog/2021/07/a-guide-to-monte-carlo-simulation/)
+- [Scribbr – *Type I and Type II Errors in Hypothesis Testing*](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)  
+- [DeepChecks – *Does Increasing Sample Size Reduce Type II Errors?*](https://www.deepchecks.com/question/does-increasing-sample-size-reduce-type-2-errors/)
 
