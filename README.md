@@ -40,3 +40,10 @@
 - [Scribbr – *Type I and Type II Errors in Hypothesis Testing*](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)  
 - [DeepChecks – *Does Increasing Sample Size Reduce Type II Errors?*](https://www.deepchecks.com/question/does-increasing-sample-size-reduce-type-2-errors/)
 
+### Problem 3: ANOVA
+- [NumPy – *numpy.random.normal()*](https://numpy.org/doc/2.1/reference/random/generated/numpy.random.normal.html)
+- [Datacamp – *ANOVA Test*](https://www.datacamp.com/tutorial/anova-test)
+- [Statology – *One-Way ANOVA in Python*](https://www.statology.org/one-way-anova-python/)
+- [SciPy Documentation – *scipy.stats.f_oneway*](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)
+- [GeeksforGeeks – *One-Way ANOVA in Python*](https://www.geeksforgeeks.org/python/how-to-perform-a-one-way-anova-in-python/)
+
