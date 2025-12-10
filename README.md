@@ -46,4 +46,27 @@
 - [Statology – *One-Way ANOVA in Python*](https://www.statology.org/one-way-anova-python/)
 - [SciPy Documentation – *scipy.stats.f_oneway*](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)
 - [GeeksforGeeks – *One-Way ANOVA in Python*](https://www.geeksforgeeks.org/python/how-to-perform-a-one-way-anova-in-python/)
+Here you go — concise and in the exact format you’re using:
+
+* [Datacamp – *ANOVA Test*](https://www.datacamp.com/tutorial/anova-test)
+* [Statology – *One-Way ANOVA in Python*](https://www.statology.org/one-way-anova-python/)
+* [SciPy Documentation – `scipy.stats.f_oneway`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html) 
+* [GeeksforGeeks – *One-Way ANOVA in Python*](https://www.geeksforgeeks.org/python/how-to-perform-a-one-way-anova-in-python/) 
+Here are concise references in the same style as the rest of your notebook:
+
+* [SciPy Documentation – `scipy.stats.ttest_ind`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html) 
+* [Statology – *Two Sample t-Test in Python*](https://www.statology.org/two-sample-t-test-python/) 
+* [Machine Learning Mastery – *How to Code the Student’s t-Test*](https://www.machinelearningmastery.com/how-to-code-the-students-t-test-from-scratch-in-python/) 
+* [GeeksforGeeks – *Independent two-sample t-test in Python*](https://www.geeksforgeeks.org/scipy-stats-ttest_ind-function-python/) 
+
+
+* [Datacamp – *ANOVA Test*](https://www.datacamp.com/tutorial/anova-test) — used to confirm that ANOVA tests whether all group means are equal and rejects H₀ when p < 0.05.
+* [Statology – *One-Way ANOVA in Python*](https://www.statology.org/one-way-anova-python/) — used to understand how ANOVA identifies that at least one group mean differs.
+* [SciPy Documentation – `scipy.stats.ttest_ind`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html) — used to perform the pairwise t-tests that identify which means differ.
+* [statisticshowto – *T Test (Student’s T-Test): Definition and Examples*](https://www.statisticshowto.com/probability-and-statistics/t-test/) — used for interpreting pairwise t-test outputs (t-statistic and p-value).
+* [Statology – *Two Sample t-Test in Python*](https://www.statology.org/two-sample-t-test-python/) — used to support the comparison of group means using pairwise t-tests.
+* **[Datacamp – *ANOVA Test*](https://www.datacamp.com/tutorial/anova-test)** — explains that ANOVA tests whether all group means are equal and avoids inflated Type I error from multiple t-tests.
+* **[Statistics How To – *ANOVA: Definition & Examples*](https://www.statisticshowto.com/probability-and-statistics/anova/)** — describes how ANOVA compares multiple group means in one test to avoid repeated-testing errors.
+
+
 
