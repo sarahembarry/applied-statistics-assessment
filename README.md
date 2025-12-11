@@ -1,5 +1,7 @@
 # applied_statistics_assessment
 
+## Introduction
+This project contains four statistical simulation problems completed for the Applied Statistics module. Each problem is implemented in a single Jupyter notebook and includes Python code, visualisations, interpretations, and supporting references. The tasks cover key statistical concepts such as probability estimation using analytic and Monte Carlo methods, sampling distributions, hypothesis testing with t-tests, Type II error simulation, and one-way ANOVA. Random seeds are used throughout to ensure reproducibility, and the notebook is structured with clear markdown explanations to make the analysis easy to follow.
 
 ## References**
 ### Problem 1: Extending the Lady Tasting Tea
