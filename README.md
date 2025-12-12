@@ -1,7 +1,25 @@
 # applied_statistics_assessment
 
-## Introduction
-This project contains four statistical simulation problems completed for the Applied Statistics module. Each problem is implemented in a single Jupyter notebook and includes Python code, visualisations, interpretations, and supporting references. The tasks cover key statistical concepts such as probability estimation using analytic and Monte Carlo methods, sampling distributions, hypothesis testing with t-tests, Type II error simulation, and one-way ANOVA. Random seeds are used throughout to ensure reproducibility, and the notebook is structured with clear markdown explanations to make the analysis easy to follow.
+## Overview of Project
+My name is Sarah Barry, and I am currently pursuing a Higher Diploma in Science in Computing with a focus on Data Analytics at Atlantic Technological University (ATU) in Galway. This repository contains my project for the module *Applied Statistics*.
+
+The project explores four key statistical simulation problems, all implemented in a single Jupyter notebook. The work demonstrates core statistical concepts, including analytic and Monte Carlo probability estimation, sampling distributions, hypothesis testing with t-tests, Type II error analysis, and group comparison using one-way ANOVA. The notebook integrates Python code, visualisations, interpretations, and references, with random seeds ensuring reproducible results throughout.
+
+
+
+## How to Run the Notebook
+
+To get started with this project, you can do the following:
+
+- Install Python 3.x.
+- Install Visual Studio Code, Jupyter Notebook, or another Python-friendly editor.
+- Clone this repository to your local machine and open it in your editor.
+- Install the required packages:
+  ```bash
+  pip install -r requirements.txt
+- Open the problems.ipynb notebook.
+- Run all cells from top to bottom to reproduce the analysis.
+
 
 ## References**
 ### Problem 1: Extending the Lady Tasting Tea
@@ -27,12 +45,11 @@ This project contains four statistical simulation problems completed for the App
 - [ThoughtCo – *Population vs. Sample Standard Deviations*](https://www.thoughtco.com/population-vs-sample-standard-deviations-3126372)
 - [Wikipedia – *Bessel’s Correction*](https://www.wikipedia.org/wiki/Bessel%27s_correction)
 - [Khan Academy – *Population and Sample Standard Deviation Review*](https://www.khanacademy.org/math/statistics-probability/summarizing-quantitative-data/variance-standard-deviation-sample/a/population-and-sample-standard-deviation-review)
-- [Statology – *Population vs. Sample Standard Deviation: When to Use Each*](https://www.statology.org/population-vs-sample-standard-deviation/)
+
 
 ### Problem 3: t-Tests
 - [SciPy – *ttest_ind*](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)  
 - [NumPy – *arange()*](https://numpy.org/doc/stable/reference/generated/numpy.arange.html)  
-- [NumPy – *arange() Documentation*](https://numpy.org/doc/stable/reference/generated/numpy.arange.html)
 -  [Statology – *Type II Error Calculator*](https://www.statology.org/type-ii-error-calculator/)
 - [Machine Learning Mastery – *How to Code the Student’s t-Test from Scratch in Python*](https://www.machinelearningmastery.com/how-to-code-the-students-t-test-from-scratch-in-python/)  
 - [Medium – *Hypothesis Testing and the T-Test: A Python Example*](https://medium.com/%40wilbossoftwarejourney/unlocking-the-power-of-hypothesis-testing-how-the-t-test-can-help-you-make-informed-decisions-b3eed0488a42)  
@@ -42,33 +59,17 @@ This project contains four statistical simulation problems completed for the App
 - [Scribbr – *Type I and Type II Errors in Hypothesis Testing*](https://www.scribbr.com/statistics/type-i-and-type-ii-errors/)  
 - [DeepChecks – *Does Increasing Sample Size Reduce Type II Errors?*](https://www.deepchecks.com/question/does-increasing-sample-size-reduce-type-2-errors/)
 
-### Problem 3: ANOVA
-- [NumPy – *numpy.random.normal()*](https://numpy.org/doc/2.1/reference/random/generated/numpy.random.normal.html)
+### Problem 4: ANOVA
 - [Datacamp – *ANOVA Test*](https://www.datacamp.com/tutorial/anova-test)
 - [Statology – *One-Way ANOVA in Python*](https://www.statology.org/one-way-anova-python/)
 - [SciPy Documentation – *scipy.stats.f_oneway*](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)
 - [GeeksforGeeks – *One-Way ANOVA in Python*](https://www.geeksforgeeks.org/python/how-to-perform-a-one-way-anova-in-python/)
-Here you go — concise and in the exact format you’re using:
-
-* [Datacamp – *ANOVA Test*](https://www.datacamp.com/tutorial/anova-test)
-* [Statology – *One-Way ANOVA in Python*](https://www.statology.org/one-way-anova-python/)
-* [SciPy Documentation – `scipy.stats.f_oneway`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html) 
-* [GeeksforGeeks – *One-Way ANOVA in Python*](https://www.geeksforgeeks.org/python/how-to-perform-a-one-way-anova-in-python/) 
-Here are concise references in the same style as the rest of your notebook:
-
-* [SciPy Documentation – `scipy.stats.ttest_ind`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html) 
-* [Statology – *Two Sample t-Test in Python*](https://www.statology.org/two-sample-t-test-python/) 
-* [Machine Learning Mastery – *How to Code the Student’s t-Test*](https://www.machinelearningmastery.com/how-to-code-the-students-t-test-from-scratch-in-python/) 
-* [GeeksforGeeks – *Independent two-sample t-test in Python*](https://www.geeksforgeeks.org/scipy-stats-ttest_ind-function-python/) 
-
-
-* [Datacamp – *ANOVA Test*](https://www.datacamp.com/tutorial/anova-test) — used to confirm that ANOVA tests whether all group means are equal and rejects H₀ when p < 0.05.
-* [Statology – *One-Way ANOVA in Python*](https://www.statology.org/one-way-anova-python/) — used to understand how ANOVA identifies that at least one group mean differs.
-* [SciPy Documentation – `scipy.stats.ttest_ind`](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html) — used to perform the pairwise t-tests that identify which means differ.
-* [statisticshowto – *T Test (Student’s T-Test): Definition and Examples*](https://www.statisticshowto.com/probability-and-statistics/t-test/) — used for interpreting pairwise t-test outputs (t-statistic and p-value).
-* [Statology – *Two Sample t-Test in Python*](https://www.statology.org/two-sample-t-test-python/) — used to support the comparison of group means using pairwise t-tests.
-* **[Datacamp – *ANOVA Test*](https://www.datacamp.com/tutorial/anova-test)** — explains that ANOVA tests whether all group means are equal and avoids inflated Type I error from multiple t-tests.
-* **[Statistics How To – *ANOVA: Definition & Examples*](https://www.statisticshowto.com/probability-and-statistics/anova/)** — describes how ANOVA compares multiple group means in one test to avoid repeated-testing errors.
+- [Statistics How To – *ANOVA: Definition & Examples*](https://www.statisticshowto.com/probability-and-statistics/anova/)
+- [SciPy Documentation – *scipy.stats.ttest_ind*](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
+- [Statology – *Two Sample t-Test in Python*](https://www.statology.org/two-sample-t-test-python/)
+- [Machine Learning Mastery – *How to Code the Student’s t-Test*](https://www.machinelearningmastery.com/how-to-code-the-students-t-test-from-scratch-in-python/)
+- [Statistics How To – *T Test (Student’s T-Test): Definition and Examples*](https://www.statisticshowto.com/probability-and-statistics/t-test/)
+- [NumPy – *numpy.random.normal()*](https://numpy.org/doc/2.1/reference/random/generated/numpy.random.normal.html)
 
 
 
