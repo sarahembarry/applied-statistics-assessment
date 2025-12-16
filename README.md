@@ -1,9 +1,9 @@
-# applied_statistics_assessment
+# Applied Statistics Assessment
 
 ## Overview of Project
-My name is Sarah Barry, and I am currently pursuing a Higher Diploma in Science in Computing with a focus on Data Analytics at Atlantic Technological University (ATU) in Galway. This repository contains my project for the module *Applied Statistics*.
+My name is Sarah Barry, and I am currently pursuing a Higher Diploma in Science in Computing with a focus on Data Analytics at Atlantic Technological University (ATU) Galway. This repository contains my project for the module *Applied Statistics*.
 
-The project explores four key statistical simulation problems, all implemented in a single Jupyter notebook. The work demonstrates core statistical concepts, including analytic and Monte Carlo probability estimation, sampling distributions, hypothesis testing with t-tests, Type II error analysis, and group comparison using one-way ANOVA. The notebook integrates Python code, visualisations, interpretations, and references, with random seeds ensuring reproducible results throughout.
+This project explores four key statistical simulation problems, all implemented in a single Jupyter notebook. The work demonstrates core statistical concepts, including analytic and Monte Carlo probability estimation, sampling distributions, hypothesis testing with t-tests, Type II error analysis, and group comparison using one-way ANOVA. The notebook integrates Python code, visualisations, interpretations, and references, with random seeds ensuring reproducible results throughout.
 
 
 
@@ -17,11 +17,9 @@ To get started with this project, you can do the following:
 - Install the required packages:
   ```bash
   pip install -r requirements.txt
-- Open the problems.ipynb notebook.
-- Run all cells from top to bottom to reproduce the analysis.
 
 
-## References**
+## References
 ### Problem 1: Extending the Lady Tasting Tea
 
 - [GeeksforGeeks – Python `math.comb()` Method](https://www.geeksforgeeks.org/python/python-math-comb-method/)  
