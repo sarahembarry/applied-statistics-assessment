@@ -1,11 +1,8 @@
 # Applied Statistics Assessment
 
 ## Overview of Project
-My name is Sarah Barry, and I am currently pursuing a Higher Diploma in Science in Computing with a focus on Data Analytics at Atlantic Technological University (ATU) Galway. This repository contains my project for the module *Applied Statistics*.
-
-This project explores four key statistical simulation problems, all implemented in a single Jupyter notebook. The work demonstrates core statistical concepts, including analytic and Monte Carlo probability estimation, sampling distributions, hypothesis testing with t-tests, Type II error analysis, and group comparison using one-way ANOVA. The notebook integrates Python code, visualisations, interpretations, and references, with random seeds ensuring reproducible results throughout.
-
-
+My name is Sarah Barry, and I am currently pursuing a Higher Diploma in Science in Computing with a focus on Data Analytics at Atlantic Technological University (ATU), Galway. This repository contains my project for the module *Applied Statistics*.
+This project explores four key statistical simulation problems, all implemented in a single Jupyter notebook. The work demonstrates core statistical concepts, including analytic and Monte Carlo probability estimation, sampling distributions, hypothesis testing with t-tests, Type II error analysis, and group comparison using one-way ANOVA. The notebook integrates Python code, visualisations, interpretations, and references, with random seeds used to ensure reproducible results throughout.
 
 ## How to Run the Notebook
 
@@ -17,7 +14,8 @@ To get started with this project, you can do the following:
 - Install the required packages:
   ```bash
   pip install -r requirements.txt
-
+- Open the `problems.ipynb` notebook.
+- Run all cells from top to bottom to reproduce the analysis.
 
 ## References
 ### Problem 1: Extending the Lady Tasting Tea
@@ -34,7 +32,7 @@ To get started with this project, you can do the following:
 - [Statistics How To – *P-Value in Statistical Hypothesis Tests: What is it?*](https://www.statisticshowto.com/probability-and-statistics/statistics-definitions/p-value/) 
 
 ### Problem 2: Normal Distribution
-- [Statology – * Population vs. Sample Standard Deviation: When to Use Each*](https://www.statology.org/population-vs-sample-standard-deviation/)  
+- [Statology – *Population vs. Sample Standard Deviation: When to Use Each*](https://www.statology.org/population-vs-sample-standard-deviation/)  
 - [NumPy – *numpy.random.normal()*](https://numpy.org/doc/2.1/reference/random/generated/numpy.random.normal.html)
 - [GeeksforGeeks – *Normal Distribution in NumPy*](https://www.geeksforgeeks.org/numpy/normal-distribution-in-numpy/)
 - [NumPy – *numpy.std()*](https://numpy.org/doc/2.1/reference/generated/numpy.std.html)
@@ -58,7 +56,7 @@ To get started with this project, you can do the following:
 - [DeepChecks – *Does Increasing Sample Size Reduce Type II Errors?*](https://www.deepchecks.com/question/does-increasing-sample-size-reduce-type-2-errors/)
 
 ### Problem 4: ANOVA
-- [Datacamp – *ANOVA Test*](https://www.datacamp.com/tutorial/anova-test)
+- [DataCamp – *ANOVA Test*](https://www.datacamp.com/tutorial/anova-test)
 - [Statology – *One-Way ANOVA in Python*](https://www.statology.org/one-way-anova-python/)
 - [SciPy Documentation – *scipy.stats.f_oneway*](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)
 - [GeeksforGeeks – *One-Way ANOVA in Python*](https://www.geeksforgeeks.org/python/how-to-perform-a-one-way-anova-in-python/)
